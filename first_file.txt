@@ -1,3 +1,2 @@
-zeroth line
 first line
 second line
